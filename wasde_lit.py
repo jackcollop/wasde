@@ -14,8 +14,8 @@ def cy(crop_year, attribute):
 
 
 def execute():
-    if cy2024: cy('2024/25','Beginning Stocks'), cy('2024/25','Production'), cy('2024/25', 'Domestic Use'), cy('2024/25', 'Ending Stocks')
-    if cy2025: cy('2025/26','Beginning Stocks'), cy('2025/26','Production'), cy('2025/26', 'Domestic Use'), cy('2025/26', 'Ending Stocks')
+    if cy2024: cy('2024/25','Beginning Stocks'), cy('2024/25','Production'), cy('2024/25','Imports'), cy('2024/25', 'Domestic Use'), cy('2024/25','Exports'), cy('2024/25', 'Ending Stocks')
+    if cy2025: cy('2025/26','Beginning Stocks'), cy('2025/26','Production'), cy('2025/26', 'Imports'), cy('2025/26', 'Domestic Use'), cy('2025/26', 'Exports'), cy('2025/26', 'Ending Stocks')
 
 
 
