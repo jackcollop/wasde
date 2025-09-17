@@ -9,7 +9,7 @@ st.subheader('World Cotton Supply and Use Historical Revisions')
 st.caption('Choose a crop year, then click Run')
 
 def cy(crop_year, attribute):
-    fig1 = px.bar(world[(world.MarketYear == crop_year) & (world.Attribute == attribute)].pivot(index='ReleaseDate', columns='Region', values='Value').sort_index().astype(float).diff().drop(columns=['Major Exporters','Major Importers','Total Foreign','World Less China','S. Hemis.']), barmode='group', color_discrete_map=px.colors.sequential.Oranges, text='Region',title=f'{crop_year} {attribute}', labels={attribute})
+    fig1 = px.bar(world[(world.MarketYear == crop_year) & (world.Attribute == attribute)].pivot(index='ReleaseDate', columns='Region', values='Value').sort_index().astype(float).diff().drop(columns=['Major Exporters','Major Importers','Total Foreign','World Less China','S. Hemis.']), barmode='group', color_discrete_map=px.colors.qualitative.Vivid, text='Region',title=f'{crop_year} {attribute}', labels={attribute})
     return st.plotly_chart(fig1)
 
 
