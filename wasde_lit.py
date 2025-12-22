@@ -9,7 +9,7 @@ st.subheader('World Cotton Supply and Use Historical Revisions')
 st.caption('Choose a crop year, then click Run')
 
 def cy(crop_year, attribute):
-    fig1 = px.bar(world[(world.MarketYear == crop_year) & (world.Attribute == attribute)].pivot(index='ReleaseDate', columns='Region', values='Value').sort_index().astype(float).diff().drop(columns=['Major Exporters','Major Importers','Total Foreign','World Less China','S. Hemis.']), color_discrete_sequence=px.colors.qualitative.Alphabet, barmode='group', facet_col='ReleaseDate', text='Region',title=f'{crop_year} {attribute}', labels={attribute}).add_hline(0, line_color='white', opacity=0.2)
+    fig1 = px.bar(world[(world.MarketYear == crop_year) & (world.Attribute == attribute)].pivot(index='ReleaseDate', columns='Region', values='Value').sort_index().astype(float).diff().drop(columns=['Major Exporters','Major Importers','Total Foreign','World Less China','S. Hemis.']), color_discrete_sequence=px.colors.qualitative.Alphabet, barmode='group', text='Region',title=f'{crop_year} {attribute}', labels={attribute}).add_hline(0, line_color='white', opacity=0.2)
     fig1.update_layout(barmode='group', bargap=0.66, bargroupgap=0.0, width=25)
     return st.plotly_chart(fig1)
 
