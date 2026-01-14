@@ -79337,3 +79337,444 @@
 438,666,December 2025,World Cotton Supply and Use,Imports,,Cotton,World Less China,2025/26,Proj.,Annual,38.33,Million 480-Pound Bales,2025-12-09,12:00:00.0000000,2025,12
 439,666,December 2025,World Cotton Supply and Use,Loss,,Cotton,World Less China,2025/26,Proj.,Annual,-0.19,Million 480-Pound Bales,2025-12-09,12:00:00.0000000,2025,12
 440,666,December 2025,World Cotton Supply and Use,Production,,Cotton,World Less China,2025/26,Proj.,Annual,86.29,Million 480-Pound Bales,2025-12-09,12:00:00.0000000,2025,12
+0,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Afr. Fr. Zone,2023/24,,Annual,0.96,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+1,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Afr. Fr. Zone,2023/24,,Annual,0.1,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+2,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Afr. Fr. Zone,2023/24,,Annual,1.29,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+3,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Afr. Fr. Zone,2023/24,,Annual,4.59,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+4,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Afr. Fr. Zone,2023/24,,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+5,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Afr. Fr. Zone,2023/24,,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+6,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Afr. Fr. Zone,2023/24,,Annual,5.02,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+7,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Australia,2023/24,,Annual,4.81,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+8,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Australia,2023/24,,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+9,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Australia,2023/24,,Annual,4.22,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+10,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Australia,2023/24,,Annual,5.76,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+11,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Australia,2023/24,,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+12,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Australia,2023/24,,Annual,-0.18,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+13,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Australia,2023/24,,Annual,5.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+14,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Bangladesh,2023/24,,Annual,1.73,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+15,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Bangladesh,2023/24,,Annual,7.75,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+16,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Bangladesh,2023/24,,Annual,1.71,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+17,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Bangladesh,2023/24,,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+18,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Bangladesh,2023/24,,Annual,7.58,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+19,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Bangladesh,2023/24,,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+20,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Bangladesh,2023/24,,Annual,0.16,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+21,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Brazil,2023/24,,Annual,3.93,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+22,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Brazil,2023/24,,Annual,3.37,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+23,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Brazil,2023/24,,Annual,2.83,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+24,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Brazil,2023/24,,Annual,12.31,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+25,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Brazil,2023/24,,Annual,0.01,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+26,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Brazil,2023/24,,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+27,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Brazil,2023/24,,Annual,14.57,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+28,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Central Asia,2023/24,,Annual,3.62,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+29,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Central Asia,2023/24,,Annual,3.9,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+30,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Central Asia,2023/24,,Annual,3.13,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+31,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Central Asia,2023/24,,Annual,1.65,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+32,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Central Asia,2023/24,,Annual,0.05,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+33,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Central Asia,2023/24,,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+34,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Central Asia,2023/24,,Annual,5.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+35,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,China,2023/24,,Annual,33.36,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+36,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,China,2023/24,,Annual,38.9,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+37,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,China,2023/24,,Annual,36.71,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+38,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,China,2023/24,,Annual,0.06,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+39,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,China,2023/24,,Annual,14.97,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+40,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,China,2023/24,,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+41,667,January 2026,World Cotton Supply and Use,Production,,Cotton,China,2023/24,,Annual,27.35,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+42,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,European Union,2023/24,,Annual,0.4,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+43,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,European Union,2023/24,,Annual,0.51,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+44,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,European Union,2023/24,,Annual,0.27,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+45,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,European Union,2023/24,,Annual,1.14,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+46,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,European Union,2023/24,,Annual,0.47,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+47,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,European Union,2023/24,,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+48,667,January 2026,World Cotton Supply and Use,Production,,Cotton,European Union,2023/24,,Annual,1.04,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+49,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,India,2023/24,,Annual,10.82,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+50,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,India,2023/24,,Annual,25.5,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+51,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,India,2023/24,,Annual,9.3,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+52,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,India,2023/24,,Annual,2.31,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+53,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,India,2023/24,,Annual,0.89,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+54,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,India,2023/24,,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+55,667,January 2026,World Cotton Supply and Use,Production,,Cotton,India,2023/24,,Annual,25.4,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+56,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Indonesia,2023/24,,Annual,0.36,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+57,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Indonesia,2023/24,,Annual,1.8,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+58,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Indonesia,2023/24,,Annual,0.4,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+59,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Indonesia,2023/24,,Annual,0.01,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+60,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Indonesia,2023/24,,Annual,1.85,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+61,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Indonesia,2023/24,,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+62,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Indonesia,2023/24,,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+63,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Major Exporters,2023/24,,Annual,27.24,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+64,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Major Exporters,2023/24,,Annual,34.6,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+65,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Major Exporters,2023/24,,Annual,24.12,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+66,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Major Exporters,2023/24,,Annual,28.25,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+67,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Major Exporters,2023/24,,Annual,1.63,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+68,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Major Exporters,2023/24,,Annual,-0.18,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+69,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Major Exporters,2023/24,,Annual,57.93,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+70,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Major Importers,2023/24,,Annual,41.78,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+71,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Major Importers,2023/24,,Annual,74.49,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+72,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Major Importers,2023/24,,Annual,43.86,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+73,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Major Importers,2023/24,,Annual,2.99,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+74,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Major Importers,2023/24,,Annual,39.95,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+75,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Major Importers,2023/24,,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+76,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Major Importers,2023/24,,Annual,39.61,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+77,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Mexico,2023/24,,Annual,0.38,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+78,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Mexico,2023/24,,Annual,1.5,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+79,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Mexico,2023/24,,Annual,0.24,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+80,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Mexico,2023/24,,Annual,0.2,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+81,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Mexico,2023/24,,Annual,0.7,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+82,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Mexico,2023/24,,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+83,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Mexico,2023/24,,Annual,0.87,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+84,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Pakistan,2023/24,,Annual,1.53,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+85,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Pakistan,2023/24,,Annual,9.7,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+86,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Pakistan,2023/24,,Annual,1.85,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+87,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Pakistan,2023/24,,Annual,0.18,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+88,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Pakistan,2023/24,,Annual,3.2,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+89,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Pakistan,2023/24,,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+90,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Pakistan,2023/24,,Annual,7.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+91,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,S. Hemis.,2023/24,,Annual,11.37,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+92,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,S. Hemis.,2023/24,,Annual,4.44,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+93,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,S. Hemis.,2023/24,,Annual,10.04,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+94,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,S. Hemis.,2023/24,,Annual,19.24,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+95,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,S. Hemis.,2023/24,,Annual,0.15,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+96,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,S. Hemis.,2023/24,,Annual,-0.18,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+97,667,January 2026,World Cotton Supply and Use,Production,,Cotton,S. Hemis.,2023/24,,Annual,22.03,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+98,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Thailand,2023/24,,Annual,0.14,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+99,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Thailand,2023/24,,Annual,0.45,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+100,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Thailand,2023/24,,Annual,0.09,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+101,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Thailand,2023/24,,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+102,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Thailand,2023/24,,Annual,0.4,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+103,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Thailand,2023/24,,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+104,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Thailand,2023/24,,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+105,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Total Foreign,2023/24,,Annual,71.21,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+106,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Total Foreign,2023/24,,Annual,113.14,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+107,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Total Foreign,2023/24,,Annual,70.2,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+108,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Total Foreign,2023/24,,Annual,32.57,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+109,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Total Foreign,2023/24,,Annual,44.05,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+110,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Total Foreign,2023/24,,Annual,-0.18,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+111,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Total Foreign,2023/24,,Annual,100.48,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+112,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Turkey,2023/24,,Annual,2.63,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+113,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Turkey,2023/24,,Annual,6.6,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+114,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Turkey,2023/24,,Annual,1.4,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+115,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Turkey,2023/24,,Annual,1.39,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+116,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Turkey,2023/24,,Annual,3.57,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+117,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Turkey,2023/24,,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+118,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Turkey,2023/24,,Annual,3.19,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+119,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,United States,2023/24,,Annual,4.65,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+120,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,United States,2023/24,,Annual,1.85,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+121,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,United States,2023/24,,Annual,3.15,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+122,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,United States,2023/24,,Annual,11.75,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+123,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,United States,2023/24,,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+124,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,United States,2023/24,,Annual,-0.03,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+125,667,January 2026,World Cotton Supply and Use,Production,,Cotton,United States,2023/24,,Annual,12.07,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+126,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Vietnam,2023/24,,Annual,1.05,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+127,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Vietnam,2023/24,,Annual,6.6,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+128,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Vietnam,2023/24,,Annual,1.03,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+129,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Vietnam,2023/24,,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+130,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Vietnam,2023/24,,Annual,6.59,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+131,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Vietnam,2023/24,,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+132,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Vietnam,2023/24,,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+133,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,World,2023/24,,Annual,75.86,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+134,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,World,2023/24,,Annual,114.99,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+135,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,World,2023/24,,Annual,73.35,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+136,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,World,2023/24,,Annual,44.32,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+137,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,World,2023/24,,Annual,44.05,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+138,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,World,2023/24,,Annual,-0.21,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+139,667,January 2026,World Cotton Supply and Use,Production,,Cotton,World,2023/24,,Annual,112.55,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+140,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,World Less China,2023/24,,Annual,42.5,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+141,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,World Less China,2023/24,,Annual,76.09,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+142,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,World Less China,2023/24,,Annual,36.64,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+143,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,World Less China,2023/24,,Annual,44.26,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+144,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,World Less China,2023/24,,Annual,29.08,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+145,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,World Less China,2023/24,,Annual,-0.21,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+146,667,January 2026,World Cotton Supply and Use,Production,,Cotton,World Less China,2023/24,,Annual,85.2,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+147,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Afr. Fr. Zone,2024/25,Est.,Annual,1.29,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+148,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Afr. Fr. Zone,2024/25,Est.,Annual,0.1,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+149,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Afr. Fr. Zone,2024/25,Est.,Annual,1.37,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+150,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Afr. Fr. Zone,2024/25,Est.,Annual,4.07,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+151,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Afr. Fr. Zone,2024/25,Est.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+152,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Afr. Fr. Zone,2024/25,Est.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+153,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Afr. Fr. Zone,2024/25,Est.,Annual,4.25,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+154,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Australia,2024/25,Est.,Annual,4.22,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+155,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Australia,2024/25,Est.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+156,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Australia,2024/25,Est.,Annual,4.79,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+157,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Australia,2024/25,Est.,Annual,5.23,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+158,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Australia,2024/25,Est.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+159,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Australia,2024/25,Est.,Annual,-0.19,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+160,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Australia,2024/25,Est.,Annual,5.6,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+161,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Bangladesh,2024/25,Est.,Annual,1.71,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+162,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Bangladesh,2024/25,Est.,Annual,8.2,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+163,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Bangladesh,2024/25,Est.,Annual,1.71,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+164,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Bangladesh,2024/25,Est.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+165,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Bangladesh,2024/25,Est.,Annual,8.05,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+166,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Bangladesh,2024/25,Est.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+167,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Bangladesh,2024/25,Est.,Annual,0.15,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+168,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Brazil,2024/25,Est.,Annual,2.83,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+169,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Brazil,2024/25,Est.,Annual,3.39,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+170,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Brazil,2024/25,Est.,Annual,3.42,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+171,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Brazil,2024/25,Est.,Annual,13.02,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+172,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Brazil,2024/25,Est.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+173,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Brazil,2024/25,Est.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+174,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Brazil,2024/25,Est.,Annual,17.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+175,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Central Asia,2024/25,Est.,Annual,3.13,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+176,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Central Asia,2024/25,Est.,Annual,3.94,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+177,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Central Asia,2024/25,Est.,Annual,2.91,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+178,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Central Asia,2024/25,Est.,Annual,1.47,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+179,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Central Asia,2024/25,Est.,Annual,0.1,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+180,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Central Asia,2024/25,Est.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+181,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Central Asia,2024/25,Est.,Annual,5.09,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+182,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,China,2024/25,Est.,Annual,36.71,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+183,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,China,2024/25,Est.,Annual,39.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+184,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,China,2024/25,Est.,Annual,34.84,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+185,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,China,2024/25,Est.,Annual,0.06,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+186,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,China,2024/25,Est.,Annual,5.19,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+187,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,China,2024/25,Est.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+188,667,January 2026,World Cotton Supply and Use,Production,,Cotton,China,2024/25,Est.,Annual,32.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+189,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,European Union,2024/25,Est.,Annual,0.27,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+190,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,European Union,2024/25,Est.,Annual,0.46,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+191,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,European Union,2024/25,Est.,Annual,0.2,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+192,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,European Union,2024/25,Est.,Annual,1.26,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+193,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,European Union,2024/25,Est.,Annual,0.41,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+194,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,European Union,2024/25,Est.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+195,667,January 2026,World Cotton Supply and Use,Production,,Cotton,European Union,2024/25,Est.,Annual,1.24,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+196,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,India,2024/25,Est.,Annual,9.3,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+197,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,India,2024/25,Est.,Annual,25.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+198,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,India,2024/25,Est.,Annual,9.22,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+199,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,India,2024/25,Est.,Annual,1.33,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+200,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,India,2024/25,Est.,Annual,3.04,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+201,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,India,2024/25,Est.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+202,667,January 2026,World Cotton Supply and Use,Production,,Cotton,India,2024/25,Est.,Annual,23.2,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+203,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Indonesia,2024/25,Est.,Annual,0.4,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+204,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Indonesia,2024/25,Est.,Annual,1.95,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+205,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Indonesia,2024/25,Est.,Annual,0.41,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+206,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Indonesia,2024/25,Est.,Annual,0.02,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+207,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Indonesia,2024/25,Est.,Annual,1.98,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+208,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Indonesia,2024/25,Est.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+209,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Indonesia,2024/25,Est.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+210,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Major Exporters,2024/25,Est.,Annual,24.12,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+211,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Major Exporters,2024/25,Est.,Annual,34.7,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+212,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Major Exporters,2024/25,Est.,Annual,25.37,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+213,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Major Exporters,2024/25,Est.,Annual,26.34,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+214,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Major Exporters,2024/25,Est.,Annual,4.29,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+215,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Major Exporters,2024/25,Est.,Annual,-0.19,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+216,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Major Exporters,2024/25,Est.,Annual,57.82,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+217,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Major Importers,2024/25,Est.,Annual,43.86,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+218,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Major Importers,2024/25,Est.,Annual,78.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+219,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Major Importers,2024/25,Est.,Annual,42.08,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+220,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Major Importers,2024/25,Est.,Annual,3.01,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+221,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Major Importers,2024/25,Est.,Annual,35.92,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+222,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Major Importers,2024/25,Est.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+223,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Major Importers,2024/25,Est.,Annual,43.32,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+224,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Mexico,2024/25,Est.,Annual,0.24,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+225,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Mexico,2024/25,Est.,Annual,1.35,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+226,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Mexico,2024/25,Est.,Annual,0.28,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+227,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Mexico,2024/25,Est.,Annual,0.18,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+228,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Mexico,2024/25,Est.,Annual,0.6,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+229,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Mexico,2024/25,Est.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+230,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Mexico,2024/25,Est.,Annual,0.97,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+231,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Pakistan,2024/25,Est.,Annual,1.85,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+232,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Pakistan,2024/25,Est.,Annual,10.8,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+233,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Pakistan,2024/25,Est.,Annual,2.1,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+234,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Pakistan,2024/25,Est.,Annual,0.05,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+235,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Pakistan,2024/25,Est.,Annual,6.1,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+236,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Pakistan,2024/25,Est.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+237,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Pakistan,2024/25,Est.,Annual,5.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+238,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,S. Hemis.,2024/25,Est.,Annual,10.04,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+239,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,S. Hemis.,2024/25,Est.,Annual,4.49,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+240,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,S. Hemis.,2024/25,Est.,Annual,11.44,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+241,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,S. Hemis.,2024/25,Est.,Annual,19.14,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+242,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,S. Hemis.,2024/25,Est.,Annual,0.15,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+243,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,S. Hemis.,2024/25,Est.,Annual,-0.19,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+244,667,January 2026,World Cotton Supply and Use,Production,,Cotton,S. Hemis.,2024/25,Est.,Annual,24.7,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+245,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Thailand,2024/25,Est.,Annual,0.09,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+246,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Thailand,2024/25,Est.,Annual,0.5,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+247,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Thailand,2024/25,Est.,Annual,0.11,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+248,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Thailand,2024/25,Est.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+249,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Thailand,2024/25,Est.,Annual,0.51,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+250,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Thailand,2024/25,Est.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+251,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Thailand,2024/25,Est.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+252,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Total Foreign,2024/25,Est.,Annual,70.2,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+253,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Total Foreign,2024/25,Est.,Annual,117.24,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+254,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Total Foreign,2024/25,Est.,Annual,69.76,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+255,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Total Foreign,2024/25,Est.,Annual,30.49,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+256,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Total Foreign,2024/25,Est.,Annual,43.03,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+257,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Total Foreign,2024/25,Est.,Annual,-0.19,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+258,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Total Foreign,2024/25,Est.,Annual,104.06,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+259,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Turkey,2024/25,Est.,Annual,1.4,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+260,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Turkey,2024/25,Est.,Annual,7.1,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+261,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Turkey,2024/25,Est.,Annual,1.28,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+262,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Turkey,2024/25,Est.,Annual,1.43,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+263,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Turkey,2024/25,Est.,Annual,4.46,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+264,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Turkey,2024/25,Est.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+265,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Turkey,2024/25,Est.,Annual,3.95,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+266,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,United States,2024/25,Est.,Annual,3.15,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+267,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,United States,2024/25,Est.,Annual,1.7,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+268,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,United States,2024/25,Est.,Annual,4.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+269,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,United States,2024/25,Est.,Annual,11.9,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+270,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,United States,2024/25,Est.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+271,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,United States,2024/25,Est.,Annual,-0.03,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+272,667,January 2026,World Cotton Supply and Use,Production,,Cotton,United States,2024/25,Est.,Annual,14.41,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+273,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Vietnam,2024/25,Est.,Annual,1.03,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+274,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Vietnam,2024/25,Est.,Annual,8.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+275,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Vietnam,2024/25,Est.,Annual,1.02,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+276,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Vietnam,2024/25,Est.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+277,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Vietnam,2024/25,Est.,Annual,7.98,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+278,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Vietnam,2024/25,Est.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+279,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Vietnam,2024/25,Est.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+280,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,World,2024/25,Est.,Annual,73.35,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+281,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,World,2024/25,Est.,Annual,118.94,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+282,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,World,2024/25,Est.,Annual,73.76,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+283,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,World,2024/25,Est.,Annual,42.39,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+284,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,World,2024/25,Est.,Annual,43.03,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+285,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,World,2024/25,Est.,Annual,-0.22,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+286,667,January 2026,World Cotton Supply and Use,Production,,Cotton,World,2024/25,Est.,Annual,118.48,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+287,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,World Less China,2024/25,Est.,Annual,36.64,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+288,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,World Less China,2024/25,Est.,Annual,79.94,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+289,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,World Less China,2024/25,Est.,Annual,38.93,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+290,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,World Less China,2024/25,Est.,Annual,42.33,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+291,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,World Less China,2024/25,Est.,Annual,37.85,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+292,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,World Less China,2024/25,Est.,Annual,-0.22,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+293,667,January 2026,World Cotton Supply and Use,Production,,Cotton,World Less China,2024/25,Est.,Annual,86.48,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+294,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Afr. Fr. Zone,2025/26,Proj.,Annual,1.37,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+295,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Afr. Fr. Zone,2025/26,Proj.,Annual,0.11,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+296,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Afr. Fr. Zone,2025/26,Proj.,Annual,1.23,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+297,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Afr. Fr. Zone,2025/26,Proj.,Annual,4.07,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+298,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Afr. Fr. Zone,2025/26,Proj.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+299,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Afr. Fr. Zone,2025/26,Proj.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+300,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Afr. Fr. Zone,2025/26,Proj.,Annual,4.03,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+301,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Australia,2025/26,Proj.,Annual,4.79,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+302,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Australia,2025/26,Proj.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+303,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Australia,2025/26,Proj.,Annual,4.15,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+304,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Australia,2025/26,Proj.,Annual,5.3,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+305,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Australia,2025/26,Proj.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+306,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Australia,2025/26,Proj.,Annual,-0.16,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+307,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Australia,2025/26,Proj.,Annual,4.5,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+308,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Bangladesh,2025/26,Proj.,Annual,1.71,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+309,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Bangladesh,2025/26,Proj.,Annual,8.1,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+310,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Bangladesh,2025/26,Proj.,Annual,1.77,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+311,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Bangladesh,2025/26,Proj.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+312,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Bangladesh,2025/26,Proj.,Annual,8.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+313,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Bangladesh,2025/26,Proj.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+314,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Bangladesh,2025/26,Proj.,Annual,0.15,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+315,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Brazil,2025/26,Proj.,Annual,3.42,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+316,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Brazil,2025/26,Proj.,Annual,3.4,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+317,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Brazil,2025/26,Proj.,Annual,4.27,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+318,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Brazil,2025/26,Proj.,Annual,14.5,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+319,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Brazil,2025/26,Proj.,Annual,0.01,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+320,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Brazil,2025/26,Proj.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+321,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Brazil,2025/26,Proj.,Annual,18.75,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+322,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Central Asia,2025/26,Proj.,Annual,2.91,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+323,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Central Asia,2025/26,Proj.,Annual,3.94,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+324,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Central Asia,2025/26,Proj.,Annual,2.57,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+325,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Central Asia,2025/26,Proj.,Annual,1.42,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+326,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Central Asia,2025/26,Proj.,Annual,0.2,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+327,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Central Asia,2025/26,Proj.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+328,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Central Asia,2025/26,Proj.,Annual,4.81,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+329,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,China,2025/26,Proj.,Annual,34.84,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+330,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,China,2025/26,Proj.,Annual,39.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+331,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,China,2025/26,Proj.,Annual,35.66,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+332,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,China,2025/26,Proj.,Annual,0.08,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+333,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,China,2025/26,Proj.,Annual,5.4,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+334,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,China,2025/26,Proj.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+335,667,January 2026,World Cotton Supply and Use,Production,,Cotton,China,2025/26,Proj.,Annual,34.5,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+336,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,European Union,2025/26,Proj.,Annual,0.2,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+337,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,European Union,2025/26,Proj.,Annual,0.51,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+338,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,European Union,2025/26,Proj.,Annual,0.22,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+339,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,European Union,2025/26,Proj.,Annual,1.14,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+340,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,European Union,2025/26,Proj.,Annual,0.47,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+341,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,European Union,2025/26,Proj.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+342,667,January 2026,World Cotton Supply and Use,Production,,Cotton,European Union,2025/26,Proj.,Annual,1.2,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+343,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,India,2025/26,Proj.,Annual,9.22,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+344,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,India,2025/26,Proj.,Annual,25.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+345,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,India,2025/26,Proj.,Annual,9.32,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+346,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,India,2025/26,Proj.,Annual,1.4,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+347,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,India,2025/26,Proj.,Annual,3.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+348,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,India,2025/26,Proj.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+349,667,January 2026,World Cotton Supply and Use,Production,,Cotton,India,2025/26,Proj.,Annual,23.5,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+350,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Indonesia,2025/26,Proj.,Annual,0.41,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+351,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Indonesia,2025/26,Proj.,Annual,2.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+352,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Indonesia,2025/26,Proj.,Annual,0.4,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+353,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Indonesia,2025/26,Proj.,Annual,0.02,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+354,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Indonesia,2025/26,Proj.,Annual,2.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+355,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Indonesia,2025/26,Proj.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+356,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Indonesia,2025/26,Proj.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+357,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Major Exporters,2025/26,Proj.,Annual,25.37,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+358,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Major Exporters,2025/26,Proj.,Annual,34.83,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+359,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Major Exporters,2025/26,Proj.,Annual,25.2,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+360,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Major Exporters,2025/26,Proj.,Annual,28.14,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+361,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Major Exporters,2025/26,Proj.,Annual,4.45,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+362,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Major Exporters,2025/26,Proj.,Annual,-0.16,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+363,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Major Exporters,2025/26,Proj.,Annual,58.19,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+364,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Major Importers,2025/26,Proj.,Annual,42.08,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+365,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Major Importers,2025/26,Proj.,Annual,77.85,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+366,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Major Importers,2025/26,Proj.,Annual,42.68,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+367,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Major Importers,2025/26,Proj.,Annual,2.29,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+368,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Major Importers,2025/26,Proj.,Annual,36.32,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+369,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Major Importers,2025/26,Proj.,Annual,0.02,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+370,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Major Importers,2025/26,Proj.,Annual,44.44,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+371,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Mexico,2025/26,Proj.,Annual,0.28,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+372,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Mexico,2025/26,Proj.,Annual,1.3,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+373,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Mexico,2025/26,Proj.,Annual,0.14,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+374,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Mexico,2025/26,Proj.,Annual,0.1,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+375,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Mexico,2025/26,Proj.,Annual,0.7,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+376,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Mexico,2025/26,Proj.,Annual,0.02,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+377,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Mexico,2025/26,Proj.,Annual,0.58,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+378,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Pakistan,2025/26,Proj.,Annual,2.1,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+379,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Pakistan,2025/26,Proj.,Annual,10.9,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+380,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Pakistan,2025/26,Proj.,Annual,2.05,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+381,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Pakistan,2025/26,Proj.,Annual,0.05,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+382,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Pakistan,2025/26,Proj.,Annual,5.9,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+383,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Pakistan,2025/26,Proj.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+384,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Pakistan,2025/26,Proj.,Annual,5.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+385,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,S. Hemis.,2025/26,Proj.,Annual,11.44,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+386,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,S. Hemis.,2025/26,Proj.,Annual,4.51,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+387,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,S. Hemis.,2025/26,Proj.,Annual,11.75,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+388,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,S. Hemis.,2025/26,Proj.,Annual,20.91,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+389,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,S. Hemis.,2025/26,Proj.,Annual,0.15,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+390,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,S. Hemis.,2025/26,Proj.,Annual,-0.16,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+391,667,January 2026,World Cotton Supply and Use,Production,,Cotton,S. Hemis.,2025/26,Proj.,Annual,25.43,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+392,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Thailand,2025/26,Proj.,Annual,0.11,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+393,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Thailand,2025/26,Proj.,Annual,0.5,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+394,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Thailand,2025/26,Proj.,Annual,0.11,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+395,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Thailand,2025/26,Proj.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+396,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Thailand,2025/26,Proj.,Annual,0.5,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+397,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Thailand,2025/26,Proj.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+398,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Thailand,2025/26,Proj.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+399,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Total Foreign,2025/26,Proj.,Annual,69.76,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+400,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Total Foreign,2025/26,Proj.,Annual,117.32,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+401,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Total Foreign,2025/26,Proj.,Annual,70.28,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+402,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Total Foreign,2025/26,Proj.,Annual,31.57,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+403,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Total Foreign,2025/26,Proj.,Annual,43.75,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+404,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Total Foreign,2025/26,Proj.,Annual,-0.14,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+405,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Total Foreign,2025/26,Proj.,Annual,105.52,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+406,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Turkey,2025/26,Proj.,Annual,1.28,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+407,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Turkey,2025/26,Proj.,Annual,6.8,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+408,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Turkey,2025/26,Proj.,Annual,1.18,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+409,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Turkey,2025/26,Proj.,Annual,0.9,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+410,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Turkey,2025/26,Proj.,Annual,4.6,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+411,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Turkey,2025/26,Proj.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+412,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Turkey,2025/26,Proj.,Annual,3.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+413,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,United States,2025/26,Proj.,Annual,4.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+414,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,United States,2025/26,Proj.,Annual,1.6,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+415,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,United States,2025/26,Proj.,Annual,4.2,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+416,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,United States,2025/26,Proj.,Annual,12.2,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+417,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,United States,2025/26,Proj.,Annual,0.01,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+418,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,United States,2025/26,Proj.,Annual,-0.08,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+419,667,January 2026,World Cotton Supply and Use,Production,,Cotton,United States,2025/26,Proj.,Annual,13.92,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+420,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,Vietnam,2025/26,Proj.,Annual,1.02,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+421,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,Vietnam,2025/26,Proj.,Annual,8.1,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+422,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,Vietnam,2025/26,Proj.,Annual,1.02,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+423,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,Vietnam,2025/26,Proj.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+424,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,Vietnam,2025/26,Proj.,Annual,8.1,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+425,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,Vietnam,2025/26,Proj.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+426,667,January 2026,World Cotton Supply and Use,Production,,Cotton,Vietnam,2025/26,Proj.,Annual,0.0,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+427,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,World,2025/26,Proj.,Annual,73.76,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+428,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,World,2025/26,Proj.,Annual,118.92,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+429,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,World,2025/26,Proj.,Annual,74.48,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+430,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,World,2025/26,Proj.,Annual,43.77,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+431,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,World,2025/26,Proj.,Annual,43.76,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+432,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,World,2025/26,Proj.,Annual,-0.22,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+433,667,January 2026,World Cotton Supply and Use,Production,,Cotton,World,2025/26,Proj.,Annual,119.43,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+434,667,January 2026,World Cotton Supply and Use,Beginning Stocks,,Cotton,World Less China,2025/26,Proj.,Annual,38.93,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+435,667,January 2026,World Cotton Supply and Use,Domestic Use,,Cotton,World Less China,2025/26,Proj.,Annual,79.92,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+436,667,January 2026,World Cotton Supply and Use,Ending Stocks,,Cotton,World Less China,2025/26,Proj.,Annual,38.82,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+437,667,January 2026,World Cotton Supply and Use,Exports,,Cotton,World Less China,2025/26,Proj.,Annual,43.7,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+438,667,January 2026,World Cotton Supply and Use,Imports,,Cotton,World Less China,2025/26,Proj.,Annual,38.36,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+439,667,January 2026,World Cotton Supply and Use,Loss,,Cotton,World Less China,2025/26,Proj.,Annual,-0.22,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
+440,667,January 2026,World Cotton Supply and Use,Production,,Cotton,World Less China,2025/26,Proj.,Annual,84.93,Million 480-Pound Bales,2026-01-12,12:00:00.0000000,2026,1
